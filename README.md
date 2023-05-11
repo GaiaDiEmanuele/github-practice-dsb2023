@@ -25,3 +25,5 @@
 |No | Name  | GitHub ID            |Github Repo for portfolio website                      |Netlify website address              |Date Added     |  
 |:---|:----------------------|:---------------------|:------------------------------------------------------|:------------------------------------|:-----------------------| 
 |00|Kostis Christodoulou       | kostis-christodoulou |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2021-08-28 |
+
+|08|Gaia Di Emanuele      | GaiaDiEmanuele |<https://github.com/kostis-christodoulou/my_gorgeous_website>   |<https://kostisportfolio-2021.netlify.app/>        |2023-05-11 |
